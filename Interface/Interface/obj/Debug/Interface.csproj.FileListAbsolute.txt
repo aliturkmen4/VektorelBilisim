@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\Interface\Interface\obj\Debug\Interface.pdb
