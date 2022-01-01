@@ -1,0 +1,6 @@
+D:\FeyzaHocaYazilim165\Hafta_10\Pazar\Vektorel\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+D:\FeyzaHocaYazilim165\Hafta_10\Pazar\Vektorel\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+D:\FeyzaHocaYazilim165\Hafta_10\Pazar\Vektorel\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+D:\FeyzaHocaYazilim165\Hafta_10\Pazar\Vektorel\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+D:\FeyzaHocaYazilim165\Hafta_10\Pazar\Vektorel\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+D:\FeyzaHocaYazilim165\Hafta_10\Pazar\Vektorel\MyClassLibrary\obj\Debug\MyClassLibrary.pdb

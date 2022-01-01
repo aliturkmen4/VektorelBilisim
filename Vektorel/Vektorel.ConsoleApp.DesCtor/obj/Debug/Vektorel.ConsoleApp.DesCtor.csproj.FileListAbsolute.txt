@@ -1,0 +1,7 @@
+D:\FeyzaHocaYazilim165\Hafta_10\Pazar\Vektorel\Vektorel.ConsoleApp.DesCtor\bin\Debug\Vektorel.ConsoleApp.DesCtor.exe.config
+D:\FeyzaHocaYazilim165\Hafta_10\Pazar\Vektorel\Vektorel.ConsoleApp.DesCtor\bin\Debug\Vektorel.ConsoleApp.DesCtor.exe
+D:\FeyzaHocaYazilim165\Hafta_10\Pazar\Vektorel\Vektorel.ConsoleApp.DesCtor\bin\Debug\Vektorel.ConsoleApp.DesCtor.pdb
+D:\FeyzaHocaYazilim165\Hafta_10\Pazar\Vektorel\Vektorel.ConsoleApp.DesCtor\obj\Debug\Vektorel.ConsoleApp.DesCtor.csprojAssemblyReference.cache
+D:\FeyzaHocaYazilim165\Hafta_10\Pazar\Vektorel\Vektorel.ConsoleApp.DesCtor\obj\Debug\Vektorel.ConsoleApp.DesCtor.csproj.CoreCompileInputs.cache
+D:\FeyzaHocaYazilim165\Hafta_10\Pazar\Vektorel\Vektorel.ConsoleApp.DesCtor\obj\Debug\Vektorel.ConsoleApp.DesCtor.exe
+D:\FeyzaHocaYazilim165\Hafta_10\Pazar\Vektorel\Vektorel.ConsoleApp.DesCtor\obj\Debug\Vektorel.ConsoleApp.DesCtor.pdb
