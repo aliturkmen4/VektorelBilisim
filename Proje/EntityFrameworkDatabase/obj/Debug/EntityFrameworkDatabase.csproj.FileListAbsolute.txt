@@ -1,0 +1,12 @@
+D:\FeyzaHocaYazilim165\Hafta_19\Pazar\Proje\EntityFrameworkDatabase\bin\Debug\EntityFrameworkDatabase.dll.config
+D:\FeyzaHocaYazilim165\Hafta_19\Pazar\Proje\EntityFrameworkDatabase\bin\Debug\EntityFrameworkDatabase.dll
+D:\FeyzaHocaYazilim165\Hafta_19\Pazar\Proje\EntityFrameworkDatabase\bin\Debug\EntityFrameworkDatabase.pdb
+D:\FeyzaHocaYazilim165\Hafta_19\Pazar\Proje\EntityFrameworkDatabase\bin\Debug\EntityFramework.dll
+D:\FeyzaHocaYazilim165\Hafta_19\Pazar\Proje\EntityFrameworkDatabase\bin\Debug\EntityFramework.SqlServer.dll
+D:\FeyzaHocaYazilim165\Hafta_19\Pazar\Proje\EntityFrameworkDatabase\bin\Debug\EntityFramework.xml
+D:\FeyzaHocaYazilim165\Hafta_19\Pazar\Proje\EntityFrameworkDatabase\bin\Debug\EntityFramework.SqlServer.xml
+D:\FeyzaHocaYazilim165\Hafta_19\Pazar\Proje\EntityFrameworkDatabase\obj\Debug\EntityFrameworkDatabase.csprojAssemblyReference.cache
+D:\FeyzaHocaYazilim165\Hafta_19\Pazar\Proje\EntityFrameworkDatabase\obj\Debug\EntityFrameworkDatabase.csproj.CoreCompileInputs.cache
+D:\FeyzaHocaYazilim165\Hafta_19\Pazar\Proje\EntityFrameworkDatabase\obj\Debug\EntityFrameworkDatabase.csproj.CopyComplete
+D:\FeyzaHocaYazilim165\Hafta_19\Pazar\Proje\EntityFrameworkDatabase\obj\Debug\EntityFrameworkDatabase.dll
+D:\FeyzaHocaYazilim165\Hafta_19\Pazar\Proje\EntityFrameworkDatabase\obj\Debug\EntityFrameworkDatabase.pdb
